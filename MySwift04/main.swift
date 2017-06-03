@@ -11,5 +11,8 @@ import Foundation
 print("Hello, World!")
 var name = "Brad"
 print("Hello, \(name)")
+var weight : Int = 80
+print("體重:\(weight)kg")
+
 
 
